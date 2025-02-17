@@ -33,7 +33,7 @@ st.markdown("""
             The database can be browsed for colours, or the exact colour code be searched for using the search bar.
             """)
             
-st.video(data = 'media\Tutorial_0_Video_A1_460p.mp4',
+st.video(data = 'media/Tutorial_0_Video_A1_460p.mp4',
          autoplay = True,
          loop = True,
          muted = True)
@@ -51,7 +51,7 @@ st.markdown("""
             This value ensures appropriate behaviour of the *Radiance* material.
             """)
 
-st.video(data = 'media\Tutorial_0_Video_A2_460p.mp4',
+st.video(data = 'media/Tutorial_0_Video_A2_460p.mp4',
          autoplay = True,
          loop = True,
          muted = True)
@@ -68,7 +68,7 @@ st.markdown("""
             To begin, launch the *Opaque Materials* generator, and enable the **advanced** settings.
             """)
 
-st.video(data = 'media\Tutorial_0_Video_B1_460p.mp4',
+st.video(data = 'media/Tutorial_0_Video_B1_460p.mp4',
          autoplay = True,
          loop = True,
          muted = True)
@@ -105,7 +105,7 @@ st.markdown("""
             It is typically below 0.2 in plastic materials, and can be left at the default value of zero for most purposes.
             """)
 
-st.video(data = 'media\Tutorial_0_Video_B2_460p.mp4',
+st.video(data = 'media/Tutorial_0_Video_B2_460p.mp4',
          autoplay = True,
          loop = True,
          muted = True)
