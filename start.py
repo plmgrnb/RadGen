@@ -28,6 +28,6 @@ with st.container():
     
     st.markdown("""
                 The **Radiance** material generator was created by Oscar Palmgren.
-                It's licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-                Please provide attribution if you found the material generator useful!
+                It's forever free to use, and open-source (licensed under [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)).
+                Please support the work by providing attribution if you found the material generator useful!
                 """)
